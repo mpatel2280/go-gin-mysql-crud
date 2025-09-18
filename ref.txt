@@ -1,0 +1,5 @@
+go mod init github.com/mpatel2280/go-gin-mysql-crud
+
+go mod tidy 
+
+docker-compose up --build
